@@ -1,4 +1,6 @@
 # cats_vs_dogs classification
-group
+**group members:**
+Erfan Simiyari
+Amir Talebi
 
  
